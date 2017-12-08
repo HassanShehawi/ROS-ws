@@ -1,0 +1,2 @@
+hello_world:my_r2d2:r2d2_navigator
+-DCATKIN_DEVEL_PREFIX=/home/hassan/ROS-ws/devel -DCMAKE_INSTALL_PREFIX=/home/hassan/ROS-ws/install -G Unix Makefiles

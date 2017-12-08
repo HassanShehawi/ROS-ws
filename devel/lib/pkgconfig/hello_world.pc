@@ -1,0 +1,8 @@
+prefix=/home/hassan/ROS-ws/devel
+
+Name: hello_world
+Description: Description of hello_world
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hassan/ROS-ws/devel/lib 
+Requires: 
